@@ -1,0 +1,5 @@
+{
+  "servers": {
+    "dosidal": { "type": "http", "url": "https://mcp.dosidal.ai/mcp" }
+  }
+}
